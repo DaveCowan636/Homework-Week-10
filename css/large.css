@@ -1,0 +1,28 @@
+@media screen and (min-max width:500-1000px) {
+
+    .box1 {+
+        order: 1;
+        background-color: rgb(251,182,5);
+        width:100%auto;
+        heigth:80%auto;}
+
+    .box2 {
+        order: 2;
+        bacground-color:rgba(120,123,128,.63);
+        width: 100%auto;}
+
+    .box3 {
+        order: 3;
+        background-color:rgb(242,233,11);
+        width: 100%auto;}
+
+    .box4 {
+        order: 4;
+        background-color:rgb(245,13,226);
+        width: 100%auto;}
+
+    .box5 {
+        order: 5;
+        background-color:rgb(48,238,61);
+        width: 100%auto;}
+}
